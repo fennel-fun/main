@@ -1,0 +1,52 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "GPT Logging API",
+    "version": "1.0.0",
+    "description": "Accepts POST requests from GPT to log spice-based queries."
+  },
+  "servers": [
+    {
+      "url": "https://loggptquery-q4d33k5vta-uc.a.run.app"
+    }
+  ],
+  "paths": {
+    "/logGPTQuery": {
+      "post": {
+        "operationId": "logGPTQuery",
+        "summary": "Logs a user query about spices",
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "event": {
+                    "type": "string",
+                    "description": "The type of event, e.g., 'spices_requested'"
+                  },
+                  "user_input": {
+                    "type": "string",
+                    "description": "The original user query"
+                  },
+                  "spices": {
+                    "type": "array",
+                    "items": { "type": "string" },
+                    "description": "List of spices mentioned in the query"
+                  }
+                },
+                "required": ["event", "user_input", "spices"]
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Log accepted successfully"
+          }
+        }
+      }
+    }
+  }
+}
