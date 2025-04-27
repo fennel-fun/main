@@ -1,0 +1,243 @@
+[
+  {
+    "title": "Spiced Lentil Soup",
+    "ingredients": {
+      "spices": [
+        "2 garlic cloves, minced",
+        "1 tsp turmeric",
+        "1 tsp cumin",
+        "1/2 tsp coriander",
+        "1/2 tsp ginger",
+        "1 bay leaf"
+      ],
+      "non_spices": [
+        "1 cup red lentils",
+        "1 onion, chopped",
+        "Salt to taste",
+        "4 cups water or broth"
+      ]
+    },
+    "steps": [
+      "Rinse lentils thoroughly.",
+      "In a pot, saut\u00e9 onion and garlic until soft.",
+      "Add turmeric, cumin, coriander, and ginger; stir for 1 minute.",
+      "Add lentils, bay leaf, and water/broth. Bring to boil.",
+      "Reduce heat, simmer for 25 minutes or until lentils are tender.",
+      "Remove bay leaf, season with salt, and serve warm."
+    ]
+  },
+  {
+    "title": "Simple Curry Potatoes",
+    "ingredients": {
+      "spices": [
+        "2 cloves garlic, minced",
+        "1 tsp turmeric",
+        "1 tsp mustard seeds",
+        "1/2 tsp chili powder",
+        "1/2 tsp cumin"
+      ],
+      "non_spices": [
+        "4 medium potatoes, cubed",
+        "1 onion, chopped",
+        "Salt to taste",
+        "2 tbsp oil"
+      ]
+    },
+    "steps": [
+      "Boil or steam potatoes until just tender.",
+      "In a pan, heat oil and add mustard seeds until they pop.",
+      "Add onion and garlic, cook until translucent.",
+      "Add turmeric, chili powder, and cumin; saut\u00e9 briefly.",
+      "Add potatoes and stir to coat in spices.",
+      "Cook for 5\u201310 minutes. Season with salt and serve."
+    ]
+  },
+  {
+    "title": "Cumin Roasted Carrots",
+    "ingredients": {
+      "spices": [
+        "1 tsp cumin",
+        "1/2 tsp paprika"
+      ],
+      "non_spices": [
+        "6 carrots, peeled and sliced",
+        "2 tbsp olive oil",
+        "Salt to taste",
+        "Pepper to taste"
+      ]
+    },
+    "steps": [
+      "Preheat oven to 400\u00b0F (200\u00b0C).",
+      "Toss carrots with oil, cumin, paprika, salt, and pepper.",
+      "Spread on a baking sheet and roast for 25\u201330 minutes.",
+      "Serve warm as a side dish."
+    ]
+  },
+  {
+    "title": "Spiced Rice Pilaf",
+    "ingredients": {
+      "spices": [
+        "2 cloves garlic, minced",
+        "1/2 tsp cloves",
+        "1/2 tsp cardamom",
+        "1/2 tsp cinnamon",
+        "1 bay leaf"
+      ],
+      "non_spices": [
+        "1 cup basmati rice",
+        "1 onion, finely chopped",
+        "2 cups water or broth",
+        "Salt to taste",
+        "1 tbsp oil"
+      ]
+    },
+    "steps": [
+      "Rinse rice under cold water until clear.",
+      "Heat oil in a pot, add onion and garlic; cook until soft.",
+      "Add cloves, cardamom, cinnamon, and bay leaf; saut\u00e9 for 1 minute.",
+      "Add rice and stir to coat with spices.",
+      "Add water/broth and salt; bring to a boil.",
+      "Cover, reduce heat, simmer for 15 minutes or until rice is tender."
+    ]
+  },
+  {
+    "title": "Herbed Chickpeas",
+    "ingredients": {
+      "spices": [
+        "1 tsp oregano",
+        "1/2 tsp thyme",
+        "1/2 tsp rosemary",
+        "1/2 tsp paprika"
+      ],
+      "non_spices": [
+        "2 cups cooked chickpeas",
+        "1 tbsp olive oil",
+        "Salt to taste"
+      ]
+    },
+    "steps": [
+      "Heat oil in a skillet over medium heat.",
+      "Add chickpeas and saut\u00e9 for 2 minutes.",
+      "Add oregano, thyme, rosemary, and paprika.",
+      "Cook for another 5 minutes, stirring occasionally.",
+      "Season with salt and serve warm or cold."
+    ]
+  },
+  {
+    "title": "Spiced Tomato Sauce",
+    "ingredients": {
+      "spices": [
+        "2 cloves garlic, minced",
+        "1 tsp basil",
+        "1/2 tsp oregano",
+        "1/2 tsp thyme",
+        "1/2 tsp chili powder"
+      ],
+      "non_spices": [
+        "2 cups canned tomatoes",
+        "1 onion, chopped",
+        "Salt to taste",
+        "1 tbsp olive oil"
+      ]
+    },
+    "steps": [
+      "Heat oil in a saucepan and saut\u00e9 onion and garlic.",
+      "Add tomatoes and break them up with a spoon.",
+      "Stir in basil, oregano, thyme, and chili powder.",
+      "Simmer for 20 minutes until thickened.",
+      "Season with salt and serve with pasta or grains."
+    ]
+  },
+  {
+    "title": "Ginger Carrot Soup",
+    "ingredients": {
+      "spices": [
+        "2 garlic cloves, minced",
+        "1 tsp ginger",
+        "1/2 tsp turmeric"
+      ],
+      "non_spices": [
+        "5 carrots, peeled and chopped",
+        "1 onion, chopped",
+        "4 cups vegetable broth",
+        "Salt and pepper to taste",
+        "1 tbsp oil"
+      ]
+    },
+    "steps": [
+      "Saut\u00e9 onion and garlic in oil until soft.",
+      "Add ginger and turmeric; stir briefly.",
+      "Add carrots and broth; bring to a boil.",
+      "Simmer until carrots are soft, about 20 minutes.",
+      "Blend until smooth. Season and serve."
+    ]
+  },
+  {
+    "title": "Warm Spiced Apples",
+    "ingredients": {
+      "spices": [
+        "1 tsp cinnamon",
+        "1/2 tsp nutmeg",
+        "1/4 tsp cloves"
+      ],
+      "non_spices": [
+        "4 apples, sliced",
+        "1 tbsp butter",
+        "1 tbsp honey"
+      ]
+    },
+    "steps": [
+      "Melt butter in a skillet.",
+      "Add apples and saut\u00e9 for 5 minutes.",
+      "Add cinnamon, nutmeg, cloves, and honey.",
+      "Cook until apples are soft and caramelized.",
+      "Serve warm as a dessert or topping."
+    ]
+  },
+  {
+    "title": "Savory Herb Bread",
+    "ingredients": {
+      "spices": [
+        "1 tsp rosemary",
+        "1 tsp thyme",
+        "1 tsp oregano"
+      ],
+      "non_spices": [
+        "3 cups flour",
+        "1 tbsp sugar",
+        "2 tsp yeast",
+        "1 tsp salt",
+        "1 cup warm water"
+      ]
+    },
+    "steps": [
+      "Mix flour, sugar, salt, herbs, and yeast.",
+      "Add warm water and knead until smooth.",
+      "Let rise for 1 hour.",
+      "Shape into loaf, place in pan, let rise again.",
+      "Bake at 375\u00b0F (190\u00b0C) for 30 minutes.",
+      "Cool before slicing."
+    ]
+  },
+  {
+    "title": "Golden Milk (Turmeric Latte)",
+    "ingredients": {
+      "spices": [
+        "1 tsp turmeric",
+        "1/2 tsp cinnamon",
+        "1/4 tsp ginger",
+        "1/4 tsp black pepper"
+      ],
+      "non_spices": [
+        "2 cups milk (any kind)",
+        "1 tsp honey (optional)"
+      ]
+    },
+    "steps": [
+      "Combine all ingredients in a saucepan.",
+      "Heat gently while whisking, do not boil.",
+      "Simmer for 5 minutes.",
+      "Strain and serve warm."
+    ]
+  }
+]
